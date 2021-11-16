@@ -15937,7 +15937,7 @@ var y3 = Object.defineProperty, M3 = Object.defineProperties, D3 = Object.getOwn
                 }
 
                 getTranslation(a) {
-                    return this._httpClient.get(`./assets/i18n/${a}.json`)
+                    return this._httpClient.get(`./fictional-broccoli/assets/i18n/${a}.json`)
                 }
             }
 
